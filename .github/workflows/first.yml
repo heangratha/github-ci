@@ -30,3 +30,6 @@ jobs:
       
       - name: List current path
         run: ls -la
+
+      - name: Echo complet
+        run: echo "Build complet"
